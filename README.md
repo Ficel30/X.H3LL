@@ -5,12 +5,8 @@
 ---
 
 
-<h1 align="center">Hey 👋, I'm <Your Name></h1>
-<h3 align="center">A passionate developer & creative problem solver 🚀</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+to+my+GitHub!;Building+cool+things+with+code.;Learning+%26+sharing+daily+🚀" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey 👋, I'm X.H3LL🔥🔥</h1>
+<h3 align="center"> 💻 Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner</h3>
 
 ---
 
@@ -42,6 +38,7 @@
 - 🌱 I’m learning: **TypeScript, Tailwind, AI Tools**
 - 🎯 Goals: **Become a full-stack ninja**
 - ⚡ Fun fact: **I once built a chatbot** 🤖
+- 🤝 I’m looking to collaborate 
 
 ---
 
